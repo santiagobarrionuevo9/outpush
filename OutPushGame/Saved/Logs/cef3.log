@@ -1,0 +1,39 @@
+[17304:29460:1120/211357.867:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17304:29460:1120/211405.655:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27884:28864:1120/211443.097:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27884:28864:1120/211443.323:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17304:29460:1120/211612.378:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[27884:28864:1120/211617.082:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[13580:852:1120/211620.760:ERROR:frame_impl.cc(537)] frame 5-F84B0B9F4B77AAA7053C2A93B50013BB connection timeout
+[30304:30300:1120/211620.760:ERROR:frame_impl.cc(537)] frame 5-1BE6D3B47B1015C82F81BC513E067DD6 connection timeout
+[30304:30300:1120/211631.775:ERROR:frame_impl.cc(537)] frame 5-1BE6D3B47B1015C82F81BC513E067DD6 connection timeout
+[13580:852:1120/211631.775:ERROR:frame_impl.cc(537)] frame 5-F84B0B9F4B77AAA7053C2A93B50013BB connection timeout
+[30304:30300:1120/211642.792:ERROR:frame_impl.cc(537)] frame 5-1BE6D3B47B1015C82F81BC513E067DD6 connection timeout
+[13580:852:1120/211642.792:ERROR:frame_impl.cc(537)] frame 5-F84B0B9F4B77AAA7053C2A93B50013BB connection timeout
+[13580:852:1120/211653.798:ERROR:frame_impl.cc(537)] frame 5-F84B0B9F4B77AAA7053C2A93B50013BB connection timeout
+[30304:30300:1120/211653.798:ERROR:frame_impl.cc(537)] frame 5-1BE6D3B47B1015C82F81BC513E067DD6 connection timeout
+[13580:852:1120/211653.798:FATAL:frame_impl.cc(648)] frame 5-F84B0B9F4B77AAA7053C2A93B50013BB connection retry failed (reason=CONNECT_TIMEOUT, current_state=CONNECTION_PENDING)
+[30304:30300:1120/211653.798:FATAL:frame_impl.cc(648)] frame 5-1BE6D3B47B1015C82F81BC513E067DD6 connection retry failed (reason=CONNECT_TIMEOUT, current_state=CONNECTION_PENDING)
+[27884:29896:1120/211733.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/211734.627:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:28864:1120/211736.933:ERROR:device_event_log_impl.cc(196)] [21:17:35.736] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17304:29460:1120/211749.523:ERROR:device_event_log_impl.cc(196)] [21:17:49.195] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17304:29676:1120/211751.014:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29676:1120/211751.570:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/211905.058:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/211928.726:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212106.409:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212211.419:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212437.753:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212634.113:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29676:1120/212811.347:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212815.465:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/212947.445:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29676:1120/212956.101:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/213244.226:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29676:1120/213250.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/213426.129:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29676:1120/215209.364:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27884:29896:1120/215212.354:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17304:29460:1120/215245.365:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27884:28864:1120/215245.365:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
